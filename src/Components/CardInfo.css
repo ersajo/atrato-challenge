@@ -1,0 +1,23 @@
+.userName {
+  color: #001866;
+}
+
+.userId {
+  color: #808080;
+}
+
+.statusDropdown {
+  background-color: #3363FF;
+}
+
+.bg-card {
+  background-color: #F8F8F9;
+}
+
+.columnGray {
+  background-color: #E3E5E9;
+}
+
+#editButton:hover {
+  background-color: #3363FF;
+}
